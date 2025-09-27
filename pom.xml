@@ -140,7 +140,7 @@
         <dependency>
             <groupId>org.jsoup</groupId>
             <artifactId>jsoup</artifactId>
-            <version>1.15.4</version>
+            <version>1.21.2</version>
             <scope>provided</scope><!-- Compatible with Java 8+ -->
         </dependency>
         <dependency>
